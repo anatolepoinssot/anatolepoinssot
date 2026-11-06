@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub 👋
 
-I am an MSc in Engineering with a major in **Mechanical Engineering** student at **ENSTA Paris – IP Paris**, interested in numerical simulation and energy.
+I am **Anatole**, an engineering student at **ENSTA Paris – IP Paris** (Mechanical Engineering), interested in numerical simulation and energy.
 
 This is where I share my coding projects: school assignments, research work and personal side projects.
 
@@ -15,8 +15,8 @@ This is where I share my coding projects: school assignments, research work and 
 
 ### Professional
 
-- **Reduced Order Models for nuclear reactor cores** *(repository coming soon)* – *Research internship (PRe), Shanghai Jiao Tong University – SPEIT, 2026*
-  *Reduced-order modeling of neutron flux and thermal fields in a reactor core.*
+- [Sparse-data equation discovery for a PWR core](https://github.com/anatolepoinssot/sparse-data-equation-discovery) – *Research internship (PRe), ENSTA Paris × SJTU – SPEIT, 2026* · *Python (NumPy) · FreeFem++*
+  *Rediscovering the thermal-feedback law of the IAEA 2D PWR benchmark (two-group neutron diffusion coupled to heat transfer) from only 7 virtual sensors, with a from-scratch SINDy / sequential thresholded least squares implementation.*
 
 ### School
 
